@@ -15,8 +15,7 @@ Simulink-based model of an electric drivetrain with regenerative braking
 🛣️ [Lane Detection with OpenCV](https://github.com/your-username/lane-detection-opencv)  
 Python pipeline for basic lane detection using video streams
 
-🚦 [Traffic Sign Recognition](https://github.com/your-username/traffic-sign-recognition)  
-CNN-based classifier trained on the German Traffic Sign Benchmark dataset
+Obstacle-Aware Parking Path Planner | Python, OpenCV, BFS Algorithm
 
 🛠️ [CNC Laser Cutter Design](https://github.com/your-username/laser-cutter-design)  
 SolidWorks design and fabrication project for a precision laser cutting machine
