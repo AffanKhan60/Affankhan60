@@ -9,10 +9,10 @@
 
 ## 🔧 Featured Projects
 
-🚗 [EV Powertrain Simulation](https://github.com/your-username/ev-powertrain-simulation)  
+🚗 [EV Powertrain Simulation]
 Simulink-based model of an electric drivetrain with regenerative braking
 
-🛣️ [Lane Detection with OpenCV](https://github.com/your-username/lane-detection-opencv)  
+🛣️ [Lane Detection with OpenCV] 
 Python pipeline for basic lane detection using video streams
 
 Obstacle-Aware Parking Path Planner | Python, OpenCV, BFS Algorithm
