@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Muhammad Affan Khan
-I am an Electromobility student at FAU Erlangen and i like to try stuff out and practice whatever i like at the moment. I havent uploaded everything here, but i do whenever i get the chance, so dont be alarmed lol. im kinda Passionate about autonomous driving, electric vehicle systems, and simulation and do this stuff with the Skills i got in Python, Simulink, OpenCV, and SolidWorks or whatever.
+I am an Electromobility student at FAU Erlangen and i like to try stuff out and practice whatever i like at the moment. I havent uploaded everything here, but i do whenever i get the chance, so dont be alarmed lol. im kinda Passionate about autonomous driving, electric vehicle systems, and simulation and do this stuff with the Skills i got in Python, Simulink, OpenCV, Ansys, SolidWorks or whatever.
 ---
 
 ## 🔧 Featured Projects and stuff
